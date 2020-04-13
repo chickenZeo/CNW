@@ -26,5 +26,13 @@ namespace Web_PKOT.Controllers
 
             return View();
         }
+        public ActionResult DangKy()
+        {
+            return View();
+        }
+        public ActionResult DangNhap()
+        {
+            return View();
+        }
     }
 }
